@@ -1,4 +1,6 @@
 const run = (message) => {
-  console.log(message);
+    console.log(message);
 };
 run("Hello!");
+export {};
+//# sourceMappingURL=example.js.map
